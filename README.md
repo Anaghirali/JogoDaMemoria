@@ -1,2 +1,5 @@
-# JogoDaMemoria
-Este é um jogo da memória, um dos primeiros que projetos que fiz em C#
+# Jogo Da Memoria Em C#
+
+
+
+< img src = "https://forthebadge.com/images/badges/made-with-c-sharp.svg">
